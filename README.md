@@ -19,7 +19,7 @@ Passionate about building modern, responsive, and scalable web applications.
 - 🚀 Building web applications using Laravel, Vue.js, and React
 - 🎨 Passionate about modern UI/UX design
 - 📚 Continuously learning new technologies
-- 📩 Email: dongjrperez@gmail.com
+- 📩 Email: rogerjrperez286@gmail.com
 
 ---
 
