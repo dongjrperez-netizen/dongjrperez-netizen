@@ -35,7 +35,7 @@ Passionate about building modern, responsive, and scalable web applications.
 
 ### 🗄️ Database
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres)
+![Database](https://skillicons.dev/icons?i=mysql)
 
 ### 🔧 Tools & Technologies
 
@@ -59,7 +59,7 @@ Passionate about building modern, responsive, and scalable web applications.
 
 📧 **Email:** dongjrperez@gmail.com
 
-🌐 **Portfolio:** [Visit My Portfolio](https://my-nfc.page.gd/?i=1)
+🌐 **Contact:** [Connect with me](https://my-nfc.page.gd/?i=1)
 
 ---
 
