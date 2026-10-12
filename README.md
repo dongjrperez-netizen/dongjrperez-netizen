@@ -57,7 +57,7 @@ Passionate about building modern, responsive, and scalable web applications.
 
 ## 🤝 Connect With Me
 
-📧 **Email:** dongjrperez@gmail.com
+📧 **Email:** rogerjrperez286@gmail.com
 
 🌐 **Contact:** [Connect with me](https://my-nfc.page.gd/?i=1)
 
