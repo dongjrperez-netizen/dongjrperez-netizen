@@ -7,7 +7,7 @@
 
 Passionate about building modern, responsive, and scalable web applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=dongjrperez-netizen&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dongjrperez-netizen&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
